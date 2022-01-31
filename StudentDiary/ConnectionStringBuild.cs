@@ -1,8 +1,5 @@
 ﻿using StudentDiary.Properties;
-using System.ComponentModel;
-using System.Data;
 using System.Data.SqlClient;
-using System.Security;
 
 namespace StudentDiary
 {

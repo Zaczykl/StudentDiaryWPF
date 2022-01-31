@@ -1,20 +1,7 @@
 ﻿using Diary.Commands;
-using MahApps.Metro.Controls;
-using MahApps.Metro.Controls.Dialogs;
-using StudentDiary.Models;
-using StudentDiary.Models.Domains;
-using StudentDiary.Models.Wrappers;
 using StudentDiary.Properties;
-using StudentDiary.Views;
-using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Diagnostics;
-using System.Linq;
-using System.Security;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
 

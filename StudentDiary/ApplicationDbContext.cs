@@ -1,8 +1,6 @@
 using StudentDiary.Models.Configurations;
 using StudentDiary.Models.Domains;
-using System;
 using System.Data.Entity;
-using System.Linq;
 
 namespace StudentDiary
 {
